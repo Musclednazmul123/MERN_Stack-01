@@ -7,6 +7,9 @@ function App() {
         // BEM class naming convention
         <div className = "app" >
             <h2 > hello world mmm</h2> 
+            {/* Headr */}
+            {/* TinderCards */}
+            {/* SwipeButtons */}
         </div>
     );
 }
